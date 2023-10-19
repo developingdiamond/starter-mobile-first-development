@@ -27,9 +27,6 @@ main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
 }
-.bg-primary {
-  background-color: #775f47;
-}
 
 .group img {
   width: 100%;
@@ -50,8 +47,6 @@ main p {
   flex: 2;
   margin: 10px;
 }
-
-/* Groups & Items  (Desktop) */
 
 @media all and (min-width: 800px) {
   section {
