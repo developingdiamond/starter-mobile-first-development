@@ -27,6 +27,9 @@ main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
 }
+.bg-primary {
+  background-color: #775f47;
+}
 
 .group img {
   width: 100%;
