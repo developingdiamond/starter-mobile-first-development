@@ -26,21 +26,15 @@ main h3 {
 main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
-
+  
 .group {
   display: flex;
   flex-direction: column;
+  margin-bottom: 100px;
 }
 
-.item {
-  flex: 1;
-  margin: 10px;
-}
+/* Groups and items (Desktop) */
 
-.item-double {
-  flex: 2;
-  margin: 10px;
-}
 @media all and (min-width: 800px) {
   section,
   h1 {
@@ -50,7 +44,4 @@ main p {
   .group {
     flex-direction: row;
   }
-}
-main img {
-  width: 100%;
 }
