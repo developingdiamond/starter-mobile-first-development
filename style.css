@@ -33,6 +33,16 @@ main p {
   margin-bottom: 100px;
 }
 
+img {
+  width: 100%;
+}
+
+main img {
+  width: 100%;
+}
+
+
+
 /* Groups and items (Desktop) */
 
 @media all and (min-width: 800px) {
