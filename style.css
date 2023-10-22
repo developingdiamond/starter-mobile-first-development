@@ -26,7 +26,8 @@ main h3 {
 main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
-  
+}
+
 .group {
   display: flex;
   flex-direction: column;
